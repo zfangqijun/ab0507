@@ -1,0 +1,12 @@
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <variables>
+    <variable type="int" id="ze_k{K[R-B259%(*-M7z">a</variable>
+  </variables>
+  <block type="arduino_setup" id="oMQzu*_MI|ERMu9]-rj@" x="277" y="259">
+    <statement name="statement">
+      <block type="variables_set_dynamic" id=";E#T4vx3@05+gs9c;3hC">
+        <field name="VAR" id="ze_k{K[R-B259%(*-M7z" variabletype="int">a</field>
+      </block>
+    </statement>
+  </block>
+</xml>

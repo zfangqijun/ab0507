@@ -1,3 +1,4 @@
 <xml xmlns="https://developers.google.com/blockly/xml">
-  <block type="arduino_setup" id="c~Y%9l1/rwh2^d;0KTm%" x="-239" y="182"></block>
+  <block type="arduino_setup" id="c~Y%9l1/rwh2^d;0KTm%" x="152" y="-440"></block>
+  <block type="arduino_setup" id="$jN+fnEu7}h6.]XcF}F)" x="390" y="-445"></block>
 </xml>
